@@ -29,4 +29,9 @@
 - 🎮 Gamer | 🧠 Problem Solver | ☕ Coffee Lover
 - 🌱 Always learning new tech and building cool things!
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tharakaug&theme=radical)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=tharakaug&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
