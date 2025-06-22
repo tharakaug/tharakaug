@@ -36,8 +36,17 @@
 </p>
 
 
-- 🎮 Gamer | 🧠 Problem Solver | ☕ Coffee Lover
-- 🌱 Always learning new tech and building cool things!
+---
+
+<p align="center">
+  <em>
+    🎮 <strong>Gamer</strong> &nbsp;&nbsp;|&nbsp;&nbsp;
+    🧠 <strong>Problem Solver</strong> &nbsp;&nbsp;|&nbsp;&nbsp;
+    ☕ <strong>Coffee Enthusiast</strong><br/>
+    🌱 <strong>Forever Learning</strong> new technologies and building <strong>awesome projects</strong>! 🚀
+  </em>
+</p>
+
 
 
 
