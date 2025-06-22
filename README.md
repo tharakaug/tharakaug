@@ -10,6 +10,7 @@
 ### 🧑‍💻 About Me
 
 - 👨‍🎓 I'm a Undergraduated Student from **Sri Lanka 🇱🇰**
+- 🎓 Currently following the **GDSE (Graduate Diploma in Software Engineering)** program at **IJSE – Institute of Java and Software Engineering**
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/your-profile) | Email: kavindutharaka206@gmail.com
 
 ---
@@ -35,7 +36,7 @@
   </a>
 </p>
 
-## 💡 Fun Facts
+
 - 🎮 Gamer | 🧠 Problem Solver | ☕ Coffee Lover
 - 🌱 Always learning new tech and building cool things!
 
