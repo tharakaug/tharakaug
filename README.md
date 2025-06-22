@@ -32,3 +32,9 @@ Dev Tools      : IntelliJ IDEA, Postman, GitHub, Docker
 ## 💡 Fun Facts
 - 🎮 Gamer | 🧠 Problem Solver | ☕ Coffee Lover
 - 🌱 Always learning new tech and building cool things!
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kavindutharaka&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavindutharaka&layout=compact&theme=radical)
+
