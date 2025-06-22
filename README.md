@@ -27,7 +27,7 @@
   <a href="https://web.facebook.com/kavindu.tharaka.96155" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" />
   </a>
-  <a href="https://instagram.com/kavindutharaka" target="_blank">
+  <a href="https://www.instagram.com/_kavindu_tharaka/?hl=en" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" />
   </a>
   <a href="https://twitter.com/kavindutharaka" target="_blank">
