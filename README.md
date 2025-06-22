@@ -13,6 +13,15 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kavindutharaka&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavindutharaka&layout=compact&theme=radical)
+
+## 💡 Fun Facts
+- 🎮 Gamer | 🧠 Problem Solver | ☕ Coffee Lover
+- 🌱 Always learning new tech and building cool things!
+
 
 <!---
 tharakaug/tharakaug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
