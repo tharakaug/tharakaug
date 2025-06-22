@@ -1,24 +1,34 @@
-# 👋 Hi, I’m @tharakaug
+<h1 align="center">Hi there, I'm Tharaka 👋</h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=tharakaug&style=flat-square&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tharakaug&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/tharakaug?label=Followers&style=social" alt="GitHub Followers" />
+</p>
 
-## 🛠️ Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+---
 
-## 📈 GitHub Stats
+### 🧑‍💻 About Me
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kavindutharaka&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavindutharaka&layout=compact&theme=radical)
+- 👨‍🎓 I'm a passionate **Full Stack Developer** from **Sri Lanka 🇱🇰**
+- 🔭 Currently working on: **Smart Parking Management System**
+- 🌱 Learning: **Spring Boot Microservices**, **React.js + Vite**, **Docker & CI/CD**
+- 💬 Ask me about: Java, Spring, React, Git, APIs
+- 💡 Fun Fact: I automate small tasks in my daily life — even my gaming!
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/your-profile) | Email: your.email@example.com
+- ⚡ Pronouns: He/Him
+
+---
+
+### 🛠️ Tech Stack
+
+```bash
+Languages      : Java, JavaScript, SQL
+Backend        : Spring Boot, Spring Security, Spring Cloud
+Frontend       : React, Vite, HTML5, CSS3
+Database       : MySQL, PostgreSQL
+Dev Tools      : IntelliJ IDEA, Postman, GitHub, Docker
+
 
 ## 💡 Fun Facts
 - 🎮 Gamer | 🧠 Problem Solver | ☕ Coffee Lover
 - 🌱 Always learning new tech and building cool things!
-
-
-<!---
-tharakaug/tharakaug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
