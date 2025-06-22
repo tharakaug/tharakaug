@@ -11,7 +11,6 @@
 
 - 👨‍🎓 I'm a Undergraduated Student from **Sri Lanka 🇱🇰**
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/your-profile) | Email: kavindutharaka206@gmail.com
-- ⚡ Pronouns: He/Him
 
 ---
 
@@ -20,6 +19,12 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kavindutharaka&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavindutharaka&layout=compact&theme=radical)
 
+🔗 Connect with me on:
+  - [LinkedIn](https://www.linkedin.com/in/your-profile)
+  - [GitHub](https://github.com/tharakaug)
+  - [Facebook](https://facebook.com/your-profile)
+  - [Instagram](https://instagram.com/your-profile)
+  - [Twitter (X)](https://twitter.com/your-profile)
 
 ## 💡 Fun Facts
 - 🎮 Gamer | 🧠 Problem Solver | ☕ Coffee Lover
