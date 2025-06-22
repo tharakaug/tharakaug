@@ -9,12 +9,8 @@
 
 ### 🧑‍💻 About Me
 
-- 👨‍🎓 I'm a passionate **Full Stack Developer** from **Sri Lanka 🇱🇰**
-- 🔭 Currently working on: **Smart Parking Management System**
-- 🌱 Learning: **Spring Boot Microservices**, **React.js + Vite**, **Docker & CI/CD**
-- 💬 Ask me about: Java, Spring, React, Git, APIs
-- 💡 Fun Fact: I automate small tasks in my daily life — even my gaming!
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/your-profile) | Email: your.email@example.com
+- 👨‍🎓 I'm a Undergraduated Student from **Sri Lanka 🇱🇰**
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/your-profile) | Email: kavindutharaka206@gmail.com
 - ⚡ Pronouns: He/Him
 
 ---
@@ -29,9 +25,5 @@
 - 🎮 Gamer | 🧠 Problem Solver | ☕ Coffee Lover
 - 🌱 Always learning new tech and building cool things!
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tharakaug&theme=radical)
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=tharakaug&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
