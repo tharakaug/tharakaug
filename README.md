@@ -16,14 +16,8 @@
 ---
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavindutharaka&show_icons=true&theme=dracula&border_radius=20&rank_icon=github" width="55%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindutharaka&layout=compact&theme=dracula&langs_count=8&border_radius=20" width="55%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kavindutharaka&theme=dracula&border_radius=20&date_format=M%20j%5B%2C%20Y%5D" width="100%" />
-</p>
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kavindutharaka&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavindutharaka&layout=compact&theme=radical)
 
 
 🔗 Connect with me on:
