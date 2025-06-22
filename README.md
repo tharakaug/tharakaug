@@ -12,7 +12,7 @@
 - 👨‍🎓 I'm a Undergraduated Student from **Sri Lanka 🇱🇰**
 - 🎓 Currently following the **GDSE** program at **IJSE – Institute of Java and Software Engineering**
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/kavindu-tharaka-b45556319/) | Email: kavindutharaka206@gmail.com
-
+  
 ---
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kavindutharaka&show_icons=true&theme=radical)
