@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Tharaka 👋</h1>
+<h1 align="center">Hi there, I'm Kavindu Tharaka 👋</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tharakaug&style=flat-square&color=blue" alt="Profile Views" />
@@ -17,8 +17,14 @@
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kavindutharaka&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavindutharaka&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kavindutharaka&show_icons=true&theme=radical&border_radius=20&rank_icon=github" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindutharaka&layout=compact&theme=radical&langs_count=8" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kavindutharaka&theme=radical&border_radius=20&date_format=M%20j%5B%2C%20Y%5D" width="96%" />
+</p>
 
 🔗 Connect with me on:
 <p align="left">
