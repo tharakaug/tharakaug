@@ -30,7 +30,6 @@
   <a href="https://instagram.com/kavindutharaka" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" />
   </a>
-  
   <a href="https://twitter.com/kavindutharaka" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" />
   </a>
