@@ -21,7 +21,7 @@
 
 🔗 Connect with me on:
 <p align="left">
-  <a href="https://www.linkedin.com/in/kavindutharaka" target="_blank">
+  <a href="https://www.linkedin.com/in/kavindu-tharaka-b45556319/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
   <a href="https://web.facebook.com/kavindu.tharaka.96155" target="_blank">
