@@ -21,7 +21,6 @@
 
 ### 🛠️ Tech Stack
 
-```bash
 Languages      : Java, JavaScript, SQL
 Backend        : Spring Boot, Spring Security, Spring Cloud
 Frontend       : React, Vite, HTML5, CSS3
