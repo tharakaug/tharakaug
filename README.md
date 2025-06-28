@@ -30,7 +30,8 @@
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" />
   </a>
   <a href="https://x.com/_kavin_du" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" />
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/x.png" style="background-color: black; border-radius: 50%; padding: 5px;" alt="X" />
+
   </a>
 </p>
 
