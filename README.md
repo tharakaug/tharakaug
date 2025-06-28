@@ -20,19 +20,18 @@
 
 🔗 Connect with me on:
 <p align="left">
-  <a href="https://www.linkedin.com/in/kavindu-tharaka-b45556319/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
-  </a>
-  <a href="https://web.facebook.com/kavindu.tharaka.96155" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" />
-  </a>
-  <a href="https://www.instagram.com/_kavindu_tharaka/?hl=en" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" />
-  </a>
-  <a href="https://x.com/_kavin_du" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/x.png" style="background-color: black; border-radius: 50%; padding: 5px;" alt="X" />
-
-  </a>
+ <a href="https://www.linkedin.com/in/kavindu-tharaka-b45556319/" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="48" height="48" />
+</a>
+<a href="https://web.facebook.com/kavindu.tharaka.96155" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" width="48" height="48" />
+</a>
+<a href="https://www.instagram.com/_kavindu_tharaka/?hl=en" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="48" height="48" />
+</a>
+<a href="https://x.com/_kavin_du" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/48/ffffff/x.png" alt="X" style="background-color: black; border-radius: 50%; padding: 5px;" width="48" height="48" />
+</a>
 </p>
 
 
