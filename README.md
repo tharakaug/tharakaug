@@ -17,11 +17,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavindutharaka&layout=compact&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kavindutharaka&layout=compact&theme=radical)
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kavindutharaka&layout=compact&theme=radical)
-
-
 
 🔗 Connect with me on:
 <p align="left">
