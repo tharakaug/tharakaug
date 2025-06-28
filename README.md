@@ -27,7 +27,7 @@
   <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" width="48" height="48" />
 </a>
 <a href="https://www.instagram.com/_kavindu_tharaka/?hl=en" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="48" height="48" margin-bottom="10" />
+  <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="48" height="48" margin-bottom="50" />
 </a>
 <a href="https://x.com/_kavin_du" target="_blank">
   <img src="https://img.icons8.com/ios-filled/48/ffffff/x.png" alt="X" style="background-color: black;" width="40" height="40" />
